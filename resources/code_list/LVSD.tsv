@@ -1,0 +1,15 @@
+Source	Code	Description
+ICD10	I42.0	Dilated cardiomyopathy (Congestive cardiomyopathy)
+ICD10	I42.6	Alcoholic cardiomyopathy
+ICD10	I42.7	Cardiomyopathy due to drug and external agent
+ICD10	I25.5	Ischaemic cardiomyopathy
+ICD10	I50.2	Systolic (congestive) heart failure
+ICD10	O90.3	Cardiomyopathy in the puerperium
+ICD9	428.2	Systolic heart failure
+ICD9	674.5	Peripartum cardiomyopathy
+ICD9	425.5	Alcoholic cardiomyopathy
+ICD9	425.9	Secondary cardiomyopathy, unspecified
+OPCS4	K61.7	Cardiac resynchronisation device
+CPT4	33224	Insertion of pacing electrode, cardiac venous system, for left ventricular pacing, with attachment to previously placed pacemaker or implantable defibrillator pulse generator (including revision of pocket, removal, insertion, and/or replacement of existing generator)
+CPT4	33225	Insertion of pacing electrode, cardiac venous system, for left ventricular pacing, at time of insertion of implantable defibrillator or pacemaker pulse generator (e.g., for upgrade to dual chamber system) (List separately in addition to code for primary procedure)
+CPT4	33226	Repositioning of previously implanted cardiac venous system (left ventricular) electrode (including removal, insertion and/or replacement of existing generator)

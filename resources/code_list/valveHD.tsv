@@ -1,0 +1,81 @@
+Source	Code	Description
+ICD10	746.*	Other congenital anomalies of heart
+ICD10	I05.*	Rheumatic mitral valve diseases
+ICD10	I06.*	Rheumatic aortic valve diseases
+ICD10	I07.*	Rheumatic tricuspid valve diseases
+ICD9	394.*	Diseases of mitral valve
+ICD9	395.*	Diseases of aortic valve
+ICD9	396.*	Diseases of mitral and aortic valves
+ICD9	397.*	Diseases of other endocardial structures
+OPCS4	K25.*	Plastic repair of mitral valve
+OPCS4	K26.*	Plastic repair of aortic valve
+OPCS4	K27.*	Plastic repair of tricuspid valve
+OPCS4	K28.*	Plastic repair of pulmonary valve
+OPCS4	K29.*	Plastic repair of unspecified valve of heart
+OPCS4	K30.*	Revision of plastic repair of valve of heart
+OPCS4	K31.*	Open incision of valve of heart
+OPCS4	K32.*	Closed incision of valve of heart
+OPCS4	K34.*	Other open operations on valve of heart
+OPCS4	K36.*	Excision of valve of heart
+OPCS4	K37.*	Removal of obstruction from structure adjacent to valve of heart
+OPCS4	K38.*	Other operations on structure adjacent to valve of heart
+CPT4	33361	Transcatheter aortic valve replacement (TAVR/TAVI) with prosthetic valve; percutaneous femoral artery approach
+CPT4	33362	Transcatheter aortic valve replacement (TAVR/TAVI) with prosthetic valve; open femoral artery approach
+CPT4	33363	Transcatheter aortic valve replacement (TAVR/TAVI) with prosthetic valve; open axillary artery approach
+CPT4	33364	Transcatheter aortic valve replacement (TAVR/TAVI) with prosthetic valve; open iliac artery approach
+CPT4	33365	Transcatheter aortic valve replacement (TAVR/TAVI) with prosthetic valve; transaortic approach (e.g., median sternotomy, mediastinotomy)
+CPT4	33366	Transcatheter aortic valve replacement (TAVR/TAVI) with prosthetic valve; transapical exposure (e.g., left thoracotomy)
+CPT4	33367	Transcatheter aortic valve replacement (TAVR/TAVI) with prosthetic valve; cardiopulmonary bypass support with percutaneous peripheral arterial and venous cannulation (e.g., femoral vessels) (List separately in addition to code for primary procedure)
+CPT4	33368	Transcatheter aortic valve replacement (TAVR/TAVI) with prosthetic valve; cardiopulmonary bypass support with open peripheral arterial and venous cannulation (e.g., femoral, iliac, axillary vessels) (List separately in addition to code for primary procedure)
+CPT4	33369	Transcatheter aortic valve replacement (TAVR/TAVI) with prosthetic valve; cardiopulmonary bypass support with central arterial and venous cannulation (e.g., aorta, right atrium, pulmonary artery) (List separately in addition to code for primary procedure)
+CPT4	33390	Valvuloplasty, aortic valve, open, with cardiopulmonary bypass; simple (ie, valvotomy, debridement, debulking and/or simple commissural resuspension)
+CPT4	33391	Valvuloplasty, aortic valve, open, with cardiopulmonary bypass; complex (eg, leaflet extension, leaflet resection, leaflet reconstruction or annuloplasty)
+CPT4	33400	Aortic valvuloplasty
+CPT4	33401	Open valvuloplasty of aortic valve with inflow occlusion
+CPT4	33403	Valvuloplasty, aortic valve; using transventricular dilation, with cardiopulmonary bypass
+CPT4	33404	LV—aorta conduit
+CPT4	33405	Replacement, aortic valve, with cardiopulmonary bypass; with prosthetic valve other than homograft or stentless valve
+CPT4	33406	Replacement, aortic valve, with cardiopulmonary bypass; with allograft valve (freehand)
+CPT4	33410	Replacement, aortic valve, with cardiopulmonary bypass; with stentless tissue valve
+CPT4	33411	Replacement, aortic valve; with aortic annulus enlargement, noncoronary sinus
+CPT4	33412	Replacement, aortic valve; with transventricular aortic annulus enlargement (Konno procedure)
+CPT4	33413	Replacement, aortic valve; by translocation of autologous pulmonary valve with allograft replacement of pulmonary valve (Ross procedure)
+CPT4	33415	Resection or incision of subvalvular tissue for discrete subvalvular aortic stenosis
+CPT4	33418	Transcatheter mitral valve repair, percutaneous approach, including transseptal
+CPT4	33419	Transcatheter mitral valve repair, percutaneous approach, including transseptal puncture when performed; additional prosthesis(es) during same session (List separately in addition to code for primary procedure)
+CPT4	33420	Valvotomy, mitral valve; closed heart
+CPT4	33422	Valvotomy, mitral valve; open heart, with cardiopulmonary bypass
+CPT4	33425	Valvuloplasty, mitral valve, with cardiopulmonary bypass
+CPT4	33426	Valvuloplasty, mitral valve, with cardiopulmonary bypass; with prosthetic ring
+CPT4	33427	Valvuloplasty, mitral valve, with cardiopulmonary bypass; radical reconstruction, with or without ring
+CPT4	33430	Replacement, mitral valve, with cardiopulmonary bypass
+CPT4	33440	Replacement of aortic valve by translocation of autologous pulmonary valve and transventricular aortic annulus enlargement of left ventricular outflow tract with valved conduit replacement of pulmonary valve
+CPT4	33460	Valvectomy, tricuspid valve, with cardiopulmonary bypass
+CPT4	33463	Valvuloplasty, tricuspid valve; without ring insertion
+CPT4	33464	Valvuloplasty, tricuspid valve; with ring insertion
+CPT4	33465	Replacement, tricuspid valve, with cardiopulmonary bypass
+CPT4	33468	Tricuspid valve repositioning and plication for Ebstein anomaly
+CPT4	33470	Valvotomy, pulmonary valve, closed heart; transventricular
+CPT4	33471	Valvotomy, pulmonary valve, closed heart; via pulmonary artery
+CPT4	33472	Incision of valve at right lower heart chamber, open procedure
+CPT4	33474	Valvotomy, pulmonary valve, open heart, with cardiopulmonary bypass
+CPT4	33475	Replacement, pulmonary valve
+CPT4	33476	Right ventricular resection for infundibular stenosis, with or without commissurotomy
+CPT4	33477	Transcatheter pulmonary valve implantation, percutaneous approach, including prestenting of the valve delivery site, when performed
+CPT4	33496	Repair of non-structural prosthetic valve dysfunction with cardiopulmonary bypass (separate procedure)
+CPT4	33600	Closure of atrioventricular valve (mitral or tricuspid) by suture or patch
+CPT4	33602	Closure of semilunar valve (aortic or pulmonary) by suture or patch
+CPT4	92986	Percutaneous balloon valvuloplasty; aortic valve
+CPT4	92987	Percutaneous balloon valvuloplasty; mitral valve
+CPT4	92990	Percutaneous balloon valvuloplasty; pulmonary valve
+CPT4	93355	Echocardiography, transesophageal (TEE) for guidance of a transcatheter intracardiac or great vessel(s) structural intervention(s) (eg, TAVR, transcatheter pulmonary valve replacement, mitral valve repair, paravalvular regurgitation repair, left atrial ap
+CPT4	93590	Percutaneous transcatheter closure of paravalvular leak; initial occlusion device, mitral valve
+CPT4	93592	Percutaneous transcatheter closure of paravalvular leak; each additional occlusion device (List separately in addition to code for primary procedure)
+CPT4	0256T	Implantation of catheter-delivered prosthetic aortic heart valve; endovascular approach
+CPT4	0257T	Implantation of catheter-delivered prosthetic aortic heart valve; open thoracic approach (eg, transapical, transventricular)
+CPT4	0262T	Implantation of catheter-delivered prosthetic pulmonary valve, endovascular approach
+CPT4	0318T	Implantation of catheter-delivered prosthetic aortic heart valve, open thoracic approach, (eg, transapical, other than transaortic)
+CPT4	0343T	Transcatheter mitral valve repair percutaneous approach including transseptal puncture when performed; initial prosthesis
+CPT4	0345T	Transcatheter mitral valve repair percutaneous approach via the coronary sinus
+CPT4	0483T	Transcatheter mitral valve implantation/replacement (TMVI) with prosthetic valve; percutaneous approach, including transseptal puncture, when performed
+CPT4	0484T	Transcatheter mitral valve implantation/replacement (TMVI) with prosthetic valve; transthoracic exposure (e.g., thoracotomy, transapical)

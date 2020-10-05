@@ -1,0 +1,23 @@
+# --------------
+# Configuration
+# --------------
+import pandas as pd
+from pathlib import Path
+
+configfile: "workflow/config.yaml"
+
+# Allow users to fix the underlying OS via singularity.
+singularity: "docker://continuumio/miniconda3"
+
+# Rules
+rule pheno_step1:
+    input:
+        code_lists=expand(config["dir_codelist"] + "{pheno}.tsv",
+                          pheno = config["step1_pheno"]),
+        hesin_diag = config["dir_data"] + config["filename"]["hesin_diag"],
+        hesin_oper = config["dir_data"] + config["filename"]["hesin_oper"],
+        death_cause = config["dir_data"] + config["filename"]["death_cause"]
+    output:
+        config["dir_results"] + config["filename"]["res_step1"]
+    script:
+        "scripts/pheno_step1.R"

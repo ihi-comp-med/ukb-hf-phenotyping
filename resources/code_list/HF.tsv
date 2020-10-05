@@ -1,0 +1,13 @@
+Source	Code	Description
+ICD10	I50.0	Congestive heart failure
+ICD10	I50.1	Left ventricular failure
+ICD10	I50.2	Systolic (congestive) heart failure
+ICD10	I50.4	Combined systolic (congestive) and diastolic (congestive) heart failure
+ICD10	I50.9	Heart failure, unspecified
+ICD10	I11.0	Hypertensive heart disease with (congestive) heart failure
+ICD10	I13.0	Hypertensive heart and renal disease with (congestive) heart failure
+ICD10	I13.2	Hypertensive heart and renal disease with both (congestive) heart failure and renal failure
+ICD9	428.*	Heart failure
+ICD9	402.01	Malignant hypertensive heart disease with heart failure
+ICD9	402.11	Benign hypertensive heart disease with heart failure
+ICD9	402.91	Unspecified hypertensive heart disease with heart failure

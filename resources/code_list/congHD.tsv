@@ -1,0 +1,49 @@
+Source	Code	Description
+ICD10	745.*	Bulbus cordis anomalies and anomalies of cardiac septal closure
+ICD10	Q20.*	Congenital malformations of cardiac chambers and connections
+ICD10	Q21.*	Congenital malformations of cardiac septa
+ICD10	Q22.*	Congenital malformations of pulmonary and tricuspid valves
+ICD10	Q23.*	Congenital malformations of aortic and mitral valves
+ICD10	Q24.*	Other congenital malformations of heart
+ICD10	Q25.*	Congenital malformations of great arteries
+ICD10	Q26.*	Congenital malformations of great veins
+CPT4	33608	Repair of complex cardiac anomaly other than pulmonary atresia with ventricular septal defect by construction or replacement of conduit from right or left ventricle to pulmonary artery
+CPT4	33610	Repair of complex cardiac anomalies (eg, single ventricle with subaortic obstruction) by surgical enlargement of ventricular septal defect
+CPT4	33611	Repair of double outlet right ventricle with intraventricular tunnel repair;
+CPT4	33612	Repair of double outlet right ventricle with intraventricular tunnel repair; with repair of right ventricular outflow tract obstruction
+CPT4	33615	Repair of complex cardiac anomalies (eg, tricuspid atresia) by closure of atrial septal defect and anastomosis of atria or vena cava to pulmonary artery (simple Fontan procedure)
+CPT4	33617	Repair of complex cardiac anomalies (e.g., single ventricle by modified Fontan)
+CPT4	33619	Repair of single ventricle with aortic outflow obstruction and aortic arch hypoplasia (hypoplastic left heart syndrome) (eg, Norwood procedure)
+CPT4	33641	Repair atrial septal defect, secundum, with cardiopulmonary bypass, with or without patch
+CPT4	33645	Direct or patch closure, sinus venosus, with or without anomalous pulmonary venous drainage
+CPT4	33647	Repair of atrial septal defect and ventricular septal defect, with direct or patch closure
+CPT4	33660	Repair of incomplete or partial atrioventricular canal (ostium primum atrial septal defect), with or without atrioventricular valve repair
+CPT4	33665	Repair of intermediate or transitional atrioventricular canal, with or without atrioventricular valve repair
+CPT4	33670	Repair of complete atrioventricular canal, with or without prosthetic valve
+CPT4	33675	Closure of multiple ventricular septal defects;
+CPT4	33676	Closure of multiple ventricular septal defects; with pulmonary valvotomy or infundibular resection (acyanotic)
+CPT4	33677	Closure of multiple ventricular septal defects; with removal of pulmonary artery band, with or without gusset
+CPT4	33681	Closure of single ventricular septal defect, with or without patch;
+CPT4	33684	Closure of single ventricular septal defect, with or without patch; with pulmonary valvotomy or infundibular resection (acyanotic)
+CPT4	33688	Closure of single ventricular septal defect, with or without patch; with removal of pulmonary artery band, with or without gusset
+CPT4	33692	Complete repair tetralogy of Fallot without pulmonary atresia;
+CPT4	33694	Complete repair tetralogy of Fallot without pulmonary atresia; with transannular patch
+CPT4	33697	Complete repair tetralogy of Fallot with pulmonary atresia including construction of conduit from right ventricle to pulmonary artery and closure of ventricular septal defect
+CPT4	33702	Repair sinus of Valsalva fistula, with cardiopulmonary bypass;
+CPT4	33710	Repair sinus of Valsalva fistula, with cardiopulmonary bypass; with repair of ventricular septal defect
+CPT4	33720	Repair sinus of Valsalva aneurysm, with cardiopulmonary bypass
+CPT4	33722	Closure of aortico-left ventricular tunnel
+CPT4	33732	Repair of cor triatriatum or supravalvular mitral ring by resection of left atrial membrane
+CPT4	33735	Atrial septectomy or septostomy; closed heart (Blalock-Hanlon type operation)
+CPT4	33736	Atrial septectomy or septostomy; open heart with cardiopulmonary bypass
+CPT4	33737	Atrial septectomy or septostomy; open heart, with inflow occlusion
+CPT4	33770	Repair of transposition of the great arteries with ventricular septal defect and subpulmonary stenosis; without surgical enlargement of ventricular septal defect
+CPT4	33774	Repair of transposition of the great arteries, atrial baffle procedure (eg, Mustard or Senning type) with cardiopulmonary bypass;
+CPT4	33776	Repair of transposition of the great arteries, atrial baffle procedure (eg, Mustard or Senning type) with cardiopulmonary bypass; with closure of ventricular septal defect
+CPT4	33780	Repair of transposition of the great arteries, aortic pulmonary artery reconstruction (eg, Jatene type); with closure of ventricular septal defect
+CPT4	33782	Aortic root translocation with ventricular septal defect and pulmonary stenosis repair (ie, Nikaidoh procedure); without coronary ostium reimplantation
+CPT4	33783	Aortic root translocation with ventricular septal defect and pulmonary stenosis repair (ie, Nikaidoh procedure); with reimplantation of 1 or both coronary ostia
+CPT4	33786	Total repair, truncus arteriosus (Rastelli type operation)
+CPT4	33813	Obliteration of aortopulmonary septal defect; without cardiopulmonary bypass
+CPT4	33814	Obliteration of aortopulmonary septal defect; with cardiopulmonary bypass
+CPT4	33920	Repair of pulmonary atresia with ventricular septal defect, by construction or replacement of conduit from right or left ventricle to pulmonary artery

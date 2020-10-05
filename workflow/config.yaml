@@ -1,0 +1,19 @@
+dir_data: "resources/data/"
+dir_codelist: "resources/code_list/"
+dir_results: "results"
+
+filename:
+  hesin_diag: "hesin_diag.txt"
+  death_cause: "death_cause.txt"
+  lvef: "lvef.txt"
+  res_step1: "pheno_step1.txt"
+  res_step2: "pheno_step2.txt"
+
+step1_pheno:
+  AF:
+  HF:
+    data_search: ["hesin_diag.txt"]
+  valveHD:
+  congHD:
+  LVSD:
+  MI:

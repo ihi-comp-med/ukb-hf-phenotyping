@@ -1,0 +1,69 @@
+Source	Code	Description
+ICD10	I21.*	Acute myocardial infarction
+ICD10	I22.*	Subsequent myocardial infarction
+ICD10	I23.*	Certain current complications following acute myocardial infarction
+ICD10	I24.1	Dressler's syndrome
+ICD10	I25.2	Old myocardial infarction
+ICD10	I25.5	Ischaemic cardiomyopathy
+ICD10	I25.6	Silent myocardial ischaemia
+ICD9	410.*	Myocardial infarction
+ICD9	412.*	Old myocardial infarction
+OPCS4	K40.*	Saphenous vein graft replacement of coronary artery
+OPCS4	K41.*	Other autograft replacement of coronary artery
+OPCS4	K42.*	Allograft replacement of coronary artery
+OPCS4	K43.*	Prosthetic replacement of coronary artery
+OPCS4	K44.*	Other replacement of coronary artery
+OPCS4	K45.*	Connection of thoracic artery to coronary artery
+OPCS4	K46.*	Other bypass of coronary artery
+OPCS4	K47.*	Repair of coronary artery
+OPCS4	K48.*	Other open operations on coronary artery
+OPCS4	K49.*	Transluminal balloon angioplasty of coronary artery
+OPCS4	K50.*	Other therapeutic transluminal operations on coronary artery
+OPCS4	K75.*	Percutaneous transluminal balloon angioplasty and insertion of stent into coronary artery
+CPT4	33510	Coronary artery bypass, vein only; single coronary venous graft
+CPT4	33510	Coronary artery bypass, vein only; single coronary venous graft
+CPT4	33511	Coronary artery bypass, vein only; 2 coronary venous grafts
+CPT4	33511	Coronary artery bypass, vein only; 2 coronary venous grafts
+CPT4	33512	Coronary artery bypass, vein only; 3 coronary venous grafts
+CPT4	33512	Coronary artery bypass, vein only; 3 coronary venous grafts
+CPT4	33513	Coronary artery bypass, vein only; 4 coronary venous grafts
+CPT4	33513	Coronary artery bypass, vein only; 4 coronary venous grafts
+CPT4	33530	Reoperation, coronary artery bypass procedure or valve procedure, more than 1 month after original operation (List separately in addition to code for primary procedure)
+CPT4	33533	Coronary artery bypass, using arterial graft(s); single arterial graft
+CPT4	33533	Coronary artery bypass, using arterial graft(s); single arterial graft
+CPT4	33534	Coronary artery bypass, using arterial graft(s); 2 coronary arterial grafts
+CPT4	33534	Coronary artery bypass, using arterial graft(s); 2 coronary arterial grafts
+CPT4	33535	Coronary artery bypass, using arterial graft(s); 3 coronary arterial grafts
+CPT4	33535	Coronary artery bypass, using arterial graft(s); 3 coronary arterial grafts
+CPT4	33536	Coronary artery bypass, using arterial graft(s); 4 or more coronary arterial grafts
+CPT4	33536	Coronary artery bypass, using arterial graft(s); 4 or more coronary arterial grafts
+CPT4	92920	Percutaneous transluminal coronary angioplasty; single major coronary artery or branch
+CPT4	92920	Percutaneous transluminal coronary angioplasty; single major coronary artery or branch
+CPT4	92921	Percutaneous transluminal coronary angioplasty; each additional branch of a major coronary artery
+CPT4	92921	Percutaneous transluminal coronary angioplasty; each additional branch of a major coronary artery
+CPT4	92924	Percutaneous transluminal coronary atherectomy, with coronary angioplasty when performed; single major coronary artery or branch
+CPT4	92924	Percutaneous transluminal coronary atherectomy, with coronary angioplasty when performed; single major coronary artery or branch
+CPT4	92925	Percutaneous transluminal coronary atherectomy, with coronary angioplasty when performed; each additional branch of a major coronary artery
+CPT4	92925	Percutaneous transluminal coronary atherectomy, with coronary angioplasty when performed; each additional branch of a major coronary artery
+CPT4	92928	Percutaneous transcatheter placement of intracoronary stent(s), with coronary angioplasty when performed; single major coronary artery or branch
+CPT4	92928	Percutaneous transcatheter placement of intracoronary stent(s), with coronary angioplasty when performed; single major coronary artery or branch
+CPT4	92929	Percutaneous transcatheter placement of intracoronary stent(s), with coronary angioplasty when performed; each additional branch of a major coronary artery
+CPT4	92929	Percutaneous transcatheter placement of intracoronary stent(s), with coronary angioplasty when performed; each additional branch of a major coronary artery
+CPT4	92933	Percutaneous transluminal coronary atherectomy, with intracoronary stent, with coronary angioplasty when performed; single major coronary artery or branch
+CPT4	92933	Percutaneous transluminal coronary atherectomy, with intracoronary stent, with coronary angioplasty when performed; single major coronary artery or branch
+CPT4	92934	Percutaneous transluminal coronary atherectomy, with intracoronary stent, with coronary angioplasty when performed; each additional branch of a major coronary artery
+CPT4	92934	Percutaneous transluminal coronary atherectomy, with intracoronary stent, with coronary angioplasty when performed; each additional branch of a major coronary artery
+CPT4	92937	Percutaneous transluminal revascularization of or through coronary artery bypass graft (internal mammary, free arterial, venous), any combination of intracoronary stent, atherectomy and angioplasty, including distal protection when performed; single vessel
+CPT4	92937	Percutaneous transluminal revascularization of or through coronary artery bypass graft (internal mammary, free arterial, venous), any combination of intracoronary stent, atherectomy and angioplasty, including distal protection when performed; single vessel
+CPT4	92938	Percutaneous transluminal revascularization of or through coronary artery bypass graft (internal mammary, free arterial, venous), any combination of intracoronary stent, atherectomy and angioplasty, including distal protection when performed; each additional branch subtended by the bypass graft
+CPT4	92938	Percutaneous transluminal revascularization of or through coronary artery bypass graft (internal mammary, free arterial, venous), any combination of intracoronary stent, atherectomy and angioplasty, including distal protection when performed; each additional branch subtended by the bypass graft
+CPT4	92941	Percutaneous transluminal revascularization of acute total/subtotal occlusion during acute myocardial infarction, coronary artery or coronary artery bypass graft, any combination of intracoronary stent, atherectomy and angioplasty, including aspiration thrombectomy when performed, single vessel
+CPT4	92941	Percutaneous transluminal revascularization of acute total/subtotal occlusion during acute myocardial infarction, coronary artery or coronary artery bypass graft, any combination of intracoronary stent, atherectomy and angioplasty, including aspiration thrombectomy when performed, single vessel
+CPT4	92943	Percutaneous transluminal revascularization of chronic total occlusion, coronary artery, coronary artery branch, or coronary artery bypass graft, any combination of intracoronary stent, atherectomy and angioplasty; single vessel
+CPT4	92943	Percutaneous transluminal revascularization of chronic total occlusion, coronary artery, coronary artery branch, or coronary artery bypass graft, any combination of intracoronary stent, atherectomy and angioplasty; single vessel
+CPT4	92944	Percutaneous transluminal revascularization of chronic total occlusion, coronary artery, coronary artery branch, or coronary artery bypass graft, any combination of intracoronary stent, atherectomy and angioplasty; each additional coronary artery, coronary artery branch, or bypass graft
+CPT4	92944	Percutaneous transluminal revascularization of chronic total occlusion, coronary artery, coronary artery branch, or coronary artery bypass graft, any combination of intracoronary stent, atherectomy and angioplasty; each additional coronary artery, coronary artery branch, or bypass graft
+CPT4	92973	Percutaneous transluminal coronary thrombectomy, mechanical*
+CPT4	92973	Percutaneous transluminal coronary thrombectomy, mechanical*
+CPT4	92975	Thrombolysis, coronary; by intracoronary infusion, including selective coronary angiography
+CPT4	92975	Thrombolysis, coronary; by intracoronary infusion, including selective coronary angiography
