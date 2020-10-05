@@ -2,12 +2,27 @@ dir_data: "resources/data/"
 dir_codelist: "resources/code_list/"
 dir_results: "results"
 
-filename:
-  hesin_diag: "hesin_diag.txt"
-  death_cause: "death_cause.txt"
-  lvef: "lvef.txt"
-  res_step1: "pheno_step1.txt"
-  res_step2: "pheno_step2.txt"
+data_spec:
+  hesin_diag:
+    filename: "hesin_diag.txt"
+    col_eid: "eid"
+    col_icd10: "diag_icd10"
+    col_icd9: "diag_icd9"
+
+  death_cause:
+    filename: "death_cause.txt"
+    col_eid: "eid"
+    col_icd10: "cause_icd10"
+
+  hesin_oper:
+    filename: "hesin_oper.txt"
+    col_eid: "eid"
+    col_opcs4: "oper4"
+
+  lvef:
+    filename: "lvef.txt"
+    col_eid: "eid"
+    col_lvef: "lvef"
 
 step1_pheno:
   AF:
