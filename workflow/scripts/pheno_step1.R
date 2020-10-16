@@ -13,6 +13,7 @@ library(vroom)
 #               hesin_oper = "resources/data/hesin_oper.txt",
 #               death_cause = "resources/data/death_cause.txt")
 # input$code_lists <- glue::glue("{config$dir_codelist}{names(config$step1_pheno)}.tsv")
+# output <- "results/pheno_step1.tsv"
 
 data_sources <- c("hesin_diag", "death_cause", "hesin_oper")
 target_dict <- c("icd10", "icd9", "opcs4")
@@ -64,4 +65,5 @@ df_case_wide <- data %>%
   pivot_wider(id_cols = eid, names_from = diag, values_fill = 0) %>% 
   select(-`NA`)
 
+dir.create(dirname(output), showWarnings = F, recursive = T)
 vroom_write(df_case_wide, output)
