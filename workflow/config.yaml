@@ -1,6 +1,6 @@
 dir_data: "resources/data/"
 dir_codelist: "resources/code_list/"
-dir_results: "results"
+dir_results: "results/"
 
 data_spec:
   hesin_diag:
@@ -24,11 +24,10 @@ data_spec:
     col_eid: "eid"
     col_lvef: "lvef"
 
-step1_pheno:
-  AF:
-  HF:
-    data_search: ["hesin_diag.txt"]
-  valveHD:
-  congHD:
-  LVSD:
-  MI:
+step1_pheno_data:
+  AF: "ALL"
+  HF: ["hesin_diag", "hesin_oper"]
+  valveHD: "ALL"
+  congHD: "ALL"
+  LVSD: "ALL"
+  MI: "ALL"

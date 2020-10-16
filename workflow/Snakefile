@@ -13,7 +13,7 @@ singularity: "docker://continuumio/miniconda3"
 rule pheno_step1:
     input:
         code_lists=expand(config["dir_codelist"] + "{pheno}.tsv",
-                          pheno = [k for k,v in config["step1_pheno"].items()]),
+                          pheno = [k for k,v in config["step1_pheno_data"].items()]),
         hesin_diag = config["dir_data"] + config["data_spec"]["hesin_diag"]["filename"],
         hesin_oper = config["dir_data"] + config["data_spec"]["hesin_oper"]["filename"],
         death_cause = config["dir_data"] + config["data_spec"]["death_cause"]["filename"]
@@ -21,3 +21,12 @@ rule pheno_step1:
         config["dir_results"] + "pheno_step1.tsv"
     script:
         "scripts/pheno_step1.R"
+
+rule pheno_step2:
+    input:
+        pheno_step1=config["dir_results"] + "pheno_step1.tsv",
+        lvef=config["dir_data"] + config["data_spec"]["lvef"]["filename"]
+    output:
+        config["dir_results"] + "pheno_step2.tsv"
+    script:
+        "scripts/pheno_step2.R"
