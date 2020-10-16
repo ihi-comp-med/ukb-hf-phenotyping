@@ -66,4 +66,4 @@ df_case_wide <- data %>%
   select(-`NA`)
 
 dir.create(dirname(output), showWarnings = F, recursive = T)
-vroom_write(df_case_wide, output)
+vroom_write(df_case_wide, output, delim = "\t")
