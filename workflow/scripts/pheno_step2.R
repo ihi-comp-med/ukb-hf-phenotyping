@@ -2,7 +2,7 @@
 
 input <- snakemake@input
 config <- snakemake@config
-output <- snakemake@output
+output <- snakemake@output[[1]]
 
 library(tidyverse)
 library(vroom)
