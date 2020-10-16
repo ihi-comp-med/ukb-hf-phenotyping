@@ -2,7 +2,7 @@
 
 input <- snakemake@input
 config <- snakemake@config
-output <- snakemake@output
+output <- snakemake@output[[1]]
 
 library(tidyverse)
 library(vroom)
@@ -17,10 +17,6 @@ df_pheno_step1 <- vroom(input$pheno_step1, delim = "\t") %>%
   mutate(secondaryHF = ifelse(MI == 1 | congHD == 1 | valveHD == 1, 1, 0))
 
 # check descriptive stats
-df_pheno_step1 %>% 
-  pivot_longer(cols = -eid) %>% 
-  group_by(name, value) %>% 
-  summarise(count = n())
 
 df_lvef <- vroom(input$lvef, delim = "\t")
 
