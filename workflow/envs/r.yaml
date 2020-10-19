@@ -1,0 +1,6 @@
+channels:
+ - conda-forge
+dependencies:
+ - r=4.0.3
+ - r-tidyverse=1.2.1
+ - r-vroom=1.3.2

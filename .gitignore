@@ -4,4 +4,8 @@ resources/data
 .snakemake
 results
 .ipynb_checkpoints
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
 
