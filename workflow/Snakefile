@@ -4,10 +4,13 @@
 import pandas as pd
 from pathlib import Path
 
-configfile: "workflow/config.yaml"
+configfile: "config.yaml"
 
 # Allow users to fix the underlying OS via singularity.
 singularity: "docker://continuumio/miniconda3"
+
+# Isolated conda environment to fix R package dependencies
+conda: "envs/r.yaml"
 
 # Rules
 rule pheno_step1:
