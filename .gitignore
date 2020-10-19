@@ -1,0 +1,7 @@
+resources/data
+.DS_Store
+.Rproj
+.snakemake
+results
+.ipynb_checkpoints
+
