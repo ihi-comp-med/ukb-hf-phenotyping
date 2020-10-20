@@ -86,7 +86,7 @@ This will produce a tab-separated text file with all phenotype status for both s
 
 ### Further notes
 1. This workflow was developed using R (v4.0.2) with [`tidyverse`](https://www.tidyverse.org/) and [`vroom`](https://vroom.r-lib.org/reference/vroom.html) packages.
-If not availabe locally, this workflow can be executed using an `conda` package manager with the following command:
+If not availabe locally, this workflow can be executed using `conda` package manager with the following command:
 
     `snakemake -pj1 --use-conda`
 
