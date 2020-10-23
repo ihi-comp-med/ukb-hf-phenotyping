@@ -9,14 +9,10 @@ configfile: "config.yaml"
 # Allow users to fix the underlying OS via singularity.
 singularity: "docker://continuumio/miniconda3"
 
-# Isolated conda environment to fix R package dependencies
-conda: "envs/r.yaml"
-
 # Rules
 rule all:
     input:
-        config["dir_results"] + "pheno_step1.tsv",
-        config["dir_results"] + "pheno_step2.tsv"
+        config["dir_results"] + config["file_pheno"]
 
 rule pheno_step1:
     input:
@@ -26,7 +22,8 @@ rule pheno_step1:
         hesin_oper = config["dir_data"] + config["data_spec"]["hesin_oper"]["filename"],
         death_cause = config["dir_data"] + config["data_spec"]["death_cause"]["filename"]
     output:
-        config["dir_results"] + "pheno_step1.tsv"
+        temp(config["dir_results"] + "pheno_step1.txt")
+    conda: "envs/r.yaml"
     script:
         "scripts/pheno_step1.R"
 
@@ -35,6 +32,7 @@ rule pheno_step2:
         pheno_step1=config["dir_results"] + "pheno_step1.tsv",
         lvef=config["dir_data"] + config["data_spec"]["lvef"]["filename"]
     output:
-        config["dir_results"] + "pheno_step2.tsv"
+        config["dir_results"] + config["file_pheno"]
+    conda: "envs/r.yaml"
     script:
         "scripts/pheno_step2.R"

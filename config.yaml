@@ -1,6 +1,7 @@
 dir_data: "resources/data/"
 dir_codelist: "resources/code_list/"
 dir_results: "results/"
+file_pheno: "ukb_hf_pheno.txt"
 
 data_spec:
   hesin_diag:
