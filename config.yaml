@@ -1,7 +1,7 @@
 dir_data: "resources/data/"
 dir_codelist: "resources/code_list/"
 dir_results: "results/"
-file_pheno: "ukb_hf_pheno.txt"
+file_pheno: "ukb_hf_pheno_derived.txt"
 
 data_spec:
   hesin_diag:
@@ -21,9 +21,9 @@ data_spec:
     col_opcs4: "oper4"
 
   lvef:
-    filename: "lvef.txt"
-    col_eid: "eid"
-    col_lvef: "lvef"
+    filename: "lvef_derived.txt"
+    col_eid: "eid_9922"
+    col_lvef: "LVEF"
 
 step1_pheno_data:
   AF: "ALL"
