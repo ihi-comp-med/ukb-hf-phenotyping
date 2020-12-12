@@ -47,6 +47,10 @@ df_pheno_step2 <- df %>%
                             HF & !secondaryHF & !LVSD ~ "exclude",
                             !secondaryHF & LVSD ~ "case",
                             !HF & !secondaryHF & !LVSD ~ "control",
+                            TRUE ~ "exclude"),
+         pheno6 = case_when(LVSD ~ "case",
+                            HF & !LVSD ~ "exclude",
+                            !HF & !LVSD ~ "control",
                             TRUE ~ "exclude")) %>% 
   mutate(across(MI:secondaryHF, as.numeric))
 
