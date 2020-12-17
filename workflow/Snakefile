@@ -29,7 +29,7 @@ rule pheno_step1:
 
 rule pheno_step2:
     input:
-        pheno_step1=config["dir_results"] + "pheno_step1.tsv",
+        pheno_step1=config["dir_results"] + "pheno_step1.txt",
         lvef=config["dir_data"] + config["data_spec"]["lvef"]["filename"]
     output:
         config["dir_results"] + config["file_pheno"]
