@@ -8,7 +8,7 @@ library(tidyverse)
 library(vroom)
 
 # for interactive / testing
-# config <- yaml::read_yaml("workflow/config.yaml")
+# config <- yaml::read_yaml("config.yaml")
 # input <- list(hesin_diag = "resources/data/hesin_diag.txt",
 #               hesin_oper = "resources/data/hesin_oper.txt",
 #               death_cause = "resources/data/death_cause.txt")
