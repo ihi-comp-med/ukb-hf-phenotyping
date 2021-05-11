@@ -1,7 +1,7 @@
 dir_data: "resources/data/"
 dir_codelist: "resources/code_list/"
 dir_results: "results/"
-file_pheno: "ukb_hf_pheno_derived.txt"
+file_pheno: "2021-05_ukb_hf_pheno_HES_oct_2020.txt"
 
 data_spec:
   hesin_diag:
