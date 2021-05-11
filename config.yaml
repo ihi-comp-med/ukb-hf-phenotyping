@@ -22,7 +22,7 @@ data_spec:
 
   lvef:
     filename: "lvef_derived.txt"
-    col_eid: "eid_9922"
+    col_eid: "eid_58356"
     col_lvef: "LVEF"
 
 step1_pheno_data:
