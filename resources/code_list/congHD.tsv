@@ -1,5 +1,5 @@
 Dict	Code	Description
-ICD10	745.*	Bulbus cordis anomalies and anomalies of cardiac septal closure
+ICD9	745.*	Bulbus cordis anomalies and anomalies of cardiac septal closure
 ICD10	Q20.*	Congenital malformations of cardiac chambers and connections
 ICD10	Q21.*	Congenital malformations of cardiac septa
 ICD10	Q22.*	Congenital malformations of pulmonary and tricuspid valves
