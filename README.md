@@ -1,6 +1,9 @@
 # ukb-hf-phenotyping
 Heart failure phenotyping algorithm implemented in UK Biobank.
 
+HERMES 2.0 version: [![DOI](https://zenodo.org/badge/301429409.svg)](https://doi.org/10.5281/zenodo.14567902)
+
+
 This repository contains methods and codes to implement phenotyping algorithm to define heart failure (HF) cases and its subtypes in UK Biobank cohort.
 The algorithm will define five subphenotypes of HF as illustrated in the following diagram:
 
